@@ -47,8 +47,6 @@ hint: https://keras.io/examples/vision/3D_image_classification/
 
 hint: https://keras.io/examples/vision/mlp_image_classification/
 
-Hint : https://github.com/ageron/handson-ml3/blob/main/14_deep_computer_vision_with_cnns.ipynb
-
 SOLUTION
 
 Google Colab Link - https://colab.research.google.com/drive/1A-NhyWe9VScodqHeW1B2kMUAqP2LfgPn?usp=sharing
